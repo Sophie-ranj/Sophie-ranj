@@ -2,7 +2,8 @@
 
 I'm Sophie Ranj🙌
 
-An ex-Front end developer and a newbie in the Data World
+A former front-end developer, discovered a passion for data visualization during my postgraduate studies. 
+Now diving into the data world, eager for new adventures.
 
 - 🔭 I’m currently working on Being a professional DATA ANALYST
 - 🌱 I’m currently learning SQL, Python, Excel, Power BI & Tableau
