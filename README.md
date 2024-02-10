@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Sophie-ranj/Sophie-ranj** is a ✨ Data Analyst ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sophie.ranj@outlook.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
--->
+
