@@ -3,7 +3,8 @@
 
 ### I’m Sophie
 
-**A Data Analyst who fell in love with data storytelling and dashboards based in Toronto, Canada 🇨🇦** 
+**A Data Analyst who fell in love with data storytelling based in Toronto, Canada 🇨🇦** 
+
 ---
 
 ### 🧰 Tech Stack
