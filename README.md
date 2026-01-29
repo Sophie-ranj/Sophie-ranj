@@ -35,8 +35,6 @@ Here are some project ideas that fit your background — replace links/titles wi
 - **Python EDA + Reporting** (pandas cleaning, visuals, concise insights)
 - **Alteryx Workflow Automation** (prep + transformation + output reporting)
 
-👉 Portfolio: **https://sophie-ranj.github.io/**  
-👉 LinkedIn: **https://www.linkedin.com/in/sophie-ranj/**
 👉 Portfolio: <a href="https://sophie-ranj.github.io/" target="_blank" rel="noopener noreferrer">https://sophie-ranj.github.io/</a>  
 👉 LinkedIn: <a href="https://www.linkedin.com/in/sophie-ranj/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/sophie-ranj/</a>
 
