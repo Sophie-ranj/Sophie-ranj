@@ -2,15 +2,7 @@
 ### Hi there 👋 I’m Sophie Ranj
 
 **Data Analyst | BI & Data Visualization | Toronto, Canada 🇨🇦**  
-Former Front-End Developer who fell in love with data storytelling and dashboards — now building end-to-end analytics projects and looking for my next role.
-
----
-
-### 🚀 What I’m focused on
-- 🌱 Currently learning & practicing: **Power BI (PL-300)**, **SQL**, **Python**, **Excel**, **DAX** (and Tableau when needed)
-- 👯 Open to collaborating on **Power BI**, **Python (pandas)**, **SQL**, and **data visualization** projects
-- 🤝 Actively looking for roles: **Data Analyst / BI Analyst / Business Analyst (data-focused)**
-
+A Data Analyst r who fell in love with data storytelling and dashboards — now building end-to-end analytics projects and looking for my next role.
 ---
 
 ### 🧰 Tech Stack
@@ -18,13 +10,6 @@ Former Front-End Developer who fell in love with data storytelling and dashboard
 - **Data:** SQL, Python, Excel  
 - **Analytics & Workflow:** Alteryx  
 - **Other:** Git/GitHub, data cleaning, dashboard design, KPI reporting
-
----
-
-### 🎓 Education & Certifications
-- 🎓 **MSc Computer Science** (Master’s thesis related to AI & mental health analytics during COVID-19)
-- 📌 Preparing for: **Microsoft PL-300 (Power BI Data Analyst Associate)**
-- ✅ Google Data Analytics Certificate (completed / recently completed)
 
 ---
 
