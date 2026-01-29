@@ -1,8 +1,10 @@
 
-### Hi there 👋 I’m Sophie Ranj
+### 👋 Hi there 
+
+I’m Sophie
 
 **Data Analyst | BI & Data Visualization | Toronto, Canada 🇨🇦**  
-A Data Analyst r who fell in love with data storytelling and dashboards — now building end-to-end analytics projects and looking for my next role.
+A Data Analyst who fell in love with data storytelling and dashboards
 ---
 
 ### 🧰 Tech Stack
