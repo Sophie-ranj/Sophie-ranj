@@ -1,10 +1,9 @@
 
 ### 👋 Hi there 
 
-I’m Sophie
+### I’m Sophie
 
-**Data Analyst | BI & Data Visualization | Toronto, Canada 🇨🇦**  
-A Data Analyst who fell in love with data storytelling and dashboards
+**A Data Analyst who fell in love with data storytelling and dashboards based in Toronto, Canada 🇨🇦** 
 ---
 
 ### 🧰 Tech Stack
